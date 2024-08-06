@@ -34,7 +34,6 @@ SAMPLE OUTPUT:
 Output:
 =======
 
-S C:\Users\Kavya Sree\Documents\CSC531\RL Project\RL Project> & "C:/Users/Kavya Sree/AppData/Local/Programs/Python/Python310/python.exe" "c:/Users/Kavya Sree/Documents/CSC531/RL Project/RL Project/TSProb.py"
 List of cities
 0 .  Albany NY
 1 .  Annapolis MD
